@@ -95,18 +95,16 @@ Traditional maintenance approaches are either reactive (fix after failure) or pr
 
 ## 📁 Project Structure
 
-AI-Powered-Predictive-Maintenance/
-│── main.py
-│── dataset/
-│── outputs/
-│   ├── output1.png
-│   ├── output1.1.png
-│   ├── confusion_matrix.png
-│   ├── failure_distribution.png
-│   ├── prediction_vs_actual.png
-│   ├── failure_probability.png
-│   ├── rul_graph.png
-│── README.md
+AI-Powered-Predictive-Maintenance-IoT/
+│
+├── data/
+├── models/
+├── outputs/
+├── main.py
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 ## ▶️ How to Run
 
