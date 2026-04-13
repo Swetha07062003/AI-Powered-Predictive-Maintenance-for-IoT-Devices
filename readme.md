@@ -92,9 +92,10 @@ Traditional maintenance approaches are either reactive (fix after failure) or pr
 * Model successfully identifies failure patterns
 * RUL decreases linearly with cycles, validating correct implementation
 * Predictions closely match actual outcomes
-'''
 
 ## 📁 Project Structure
+
+```
 AI-Powered-Predictive-Maintenance-IoT/
 │
 ├── data/
@@ -104,9 +105,7 @@ AI-Powered-Predictive-Maintenance-IoT/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
-'''
-
+```
 
 ## ▶️ How to Run
 
