@@ -94,7 +94,6 @@ Traditional maintenance approaches are either reactive (fix after failure) or pr
 * Predictions closely match actual outcomes
 
 ## 📁 Project Structure
-
 AI-Powered-Predictive-Maintenance-IoT/
 │
 ├── data/
